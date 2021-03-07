@@ -1,0 +1,6 @@
+Characteristic pollutant name: NULL
+Experimental fish: Medaka
+Concentration: NULL
+Start Time: 2017-04-19 10:19
+Dosing Time: NULL
+Stop Time: 2017-04-26 12:55

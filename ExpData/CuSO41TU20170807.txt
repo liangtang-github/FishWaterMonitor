@@ -1,0 +1,6 @@
+Characteristic pollutant name: CuSO4
+Experimental fish: Medaka
+Concentration: 1TU, 1TU = 7.9 mg/L
+Start Time: 2017-08-07 09:34
+Dosing Time: 2017-08-07 13:23
+Stop Time: 2017-08-08 10:53

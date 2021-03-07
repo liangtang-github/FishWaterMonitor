@@ -1,0 +1,6 @@
+Characteristic pollutant name: 2,4,6-TCP
+Experimental fish: Medaka
+Concentration: 10TU, 1TU = 2.3 mg/L
+Start Time: 2017-07-31 09:08
+Dosing Time: 2017-07-31 13:09
+Stop Time: 2017-08-01 08:36
